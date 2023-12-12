@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! My name is Muhammed Sabith and I'm a passionate programmer</h2>
   ![Muhammed Sabith](https://github.com/NotoriousBusinessMan/NotoriousBusinessMan/Muhammed Sabith.png/135003378/5d5fdeee-cf79-47dc-a721-18800db45732)
-  ![gallery-4](https://github.com/NotoriousBusinessMan/NotoriousBusinessMan/assets/135003378/4393f080-12a9-43e9-827a-7df2135055ec)
+  ![gallery-4]('https://github.com/NotoriousBusinessMan/NotoriousBusinessMan/assets/135003378/4393f080-12a9-43e9-827a-7df2135055ec')
 
 
 ###
