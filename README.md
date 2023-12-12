@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Muhammed Sabith and I'm a passionate programmer</h2>
+
 <img src='https://i.postimg.cc/3rVPdnM5/Muhammed-Sabith.png' alt="my_banner"/>
 
 
