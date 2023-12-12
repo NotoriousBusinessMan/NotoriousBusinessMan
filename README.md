@@ -1,8 +1,9 @@
 <h2 align="center">Hi 👋! My name is Muhammed Sabith and I'm a passionate programmer</h2>
-<div>
-  <h3>Hi , My name is </h3>
+<div style="background-color: pink; text-align: left;">
+  <h3 style="text-align: left;">Hi, My name is </h3>
   <h1>Muhammed Sabith</h1>
 </div>
+
 ###
 
 <p align="left">Skills & Tools I use...</p>
