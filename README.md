@@ -1,8 +1,5 @@
 <h2 align="center">Hi 👋! My name is Muhammed Sabith and I'm a passionate programmer</h2>
-<div style="background-color: pink; text-align: left;">
   ![Muhammed Sabith](https://github.com/NotoriousBusinessMan/NotoriousBusinessMan/assets/135003378/5d5fdeee-cf79-47dc-a721-18800db45732)
-
-</div>
 
 ###
 
