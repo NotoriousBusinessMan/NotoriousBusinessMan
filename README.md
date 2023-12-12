@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! My name is Muhammed Sabith and I'm a passionate programmer</h2>
-  <img src="https://i.ibb.co/JKcwBRb/Muhammed-Sabith.png" alt="Muhammed-Sabith" border="0">
+  <img width="100%" src="https://i.ibb.co/JKcwBRb/Muhammed-Sabith.png" alt="Muhammed-Sabith" border="0">
 
 
 ###
